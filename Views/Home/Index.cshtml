@@ -38,10 +38,32 @@
             <h1 style="color: rgb(255, 255, 255);">Rezerviraj let</h1>
             <form>
                 <label for="from">Od kje letite?</label>
-                <input type="text" id="from" name="from" placeholder="Departure city" required>
+                <select id="from" name="from" required>
+                    <option value="">Izberite odhodno letališče...</option>
+                    <option value="LJU">Ljubljana Jože Pučnik Airport</option>
+                    <option value="LHR">Heathrow Airport</option>
+                    <option value="CDG">Charles de Gaulle Airport</option>
+                    <option value="JFK">John F. Kennedy International Airport</option>
+                    <option value="DXB">Dubai International Airport</option>
+                </select>
 
                 <label for="to">Kam letite?</label>
-                <input type="text" id="to" name="to" placeholder="Destination city" required>
+                <select id="from" name="from" required>
+                    <option value="">Izberite odhodno letališče...</option>
+                    <option value="LJU">Ljubljana Jože Pučnik Airport</option>
+                    <option value="LHR">Heathrow Airport</option>
+                    <option value="CDG">Charles de Gaulle Airport</option>
+                    <option value="JFK">John F. Kennedy International Airport</option>
+                    <option value="DXB">Dubai International Airport</option>
+                </select>
+
+                <label for="class">Razred leta:</label>
+                <select id="class" name="class" required>
+                    <option value="">Izberite razred leta...</option>
+                    <option value="Economy">Ekonomski</option>
+                    <option value="Business">Poslovni</option>
+                    <option value="First">Prvi</option>
+                </select>
 
                 <label for="departure">Datum odhoda:</label>
                 <input type="date" id="departure" name="departure" required>
@@ -63,7 +85,7 @@
                     <option value="10">10</option>
                 </select>
 
-                <button type="submit">Poišči lete</button>
+                <button type="submit">Rezerviraj let</button>
             </form>
         </div>
     </section>

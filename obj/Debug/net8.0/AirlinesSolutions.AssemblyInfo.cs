@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirlinesSolutions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33c691e3599160ea4a327aef018669ce0c36f49a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6a908380f6b6456933159a787b1b16c0c2d931e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirlinesSolutions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirlinesSolutions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
