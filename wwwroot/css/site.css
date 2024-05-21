@@ -19,4 +19,22 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-image: url('/images/slika.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+.custom-container {
+  background-image: url('/images/your-background-image.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  opacity: 0.8; /* 80% prosojnost */
+  background-color: white;
+  border: solid black 2px;
+  border-radius: 10px;
 }

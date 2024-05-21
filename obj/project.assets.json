@@ -11802,19 +11802,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\perko\\.nuget\\packages\\": {}
+    "C:\\Users\\Blaž\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\perko\\Desktop\\Faks\\RIS\\Projekt\\AirlinesSolutions\\web\\AirlinesSolutions.csproj",
+      "projectUniqueName": "C:\\Users\\Blaž\\Desktop\\Faks\\RIS\\Projekt\\airlinesSolutions\\AirlinesSolutions.csproj",
       "projectName": "AirlinesSolutions",
-      "projectPath": "C:\\Users\\perko\\Desktop\\Faks\\RIS\\Projekt\\AirlinesSolutions\\web\\AirlinesSolutions.csproj",
-      "packagesPath": "C:\\Users\\perko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\perko\\Desktop\\Faks\\RIS\\Projekt\\AirlinesSolutions\\web\\obj\\",
+      "projectPath": "C:\\Users\\Blaž\\Desktop\\Faks\\RIS\\Projekt\\airlinesSolutions\\AirlinesSolutions.csproj",
+      "packagesPath": "C:\\Users\\Blaž\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Blaž\\Desktop\\Faks\\RIS\\Projekt\\airlinesSolutions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\perko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Blaž\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -11890,7 +11890,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,323 +9,323 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AirlinesSolutions
 build_property.RootNamespace = AirlinesSolutions
-build_property.ProjectDir = C:\Users\perko\Desktop\Faks\RIS\Projekt\AirlinesSolutions\web\
+build_property.ProjectDir = C:\Users\Blaž\Desktop\Faks\RIS\Projekt\airlinesSolutions\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\perko\Desktop\Faks\RIS\Projekt\AirlinesSolutions\web
+build_property.MSBuildProjectDirectory = C:\Users\Blaž\Desktop\Faks\RIS\Projekt\airlinesSolutions
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Lockout.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/Error.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Airports/Create.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Airports/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Airports/Delete.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Airports/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Airports/Details.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Airports/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Airports/Edit.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Airports/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Airports/Index.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Airports/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWlycG9ydHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Customers/Create.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Customers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Customers/Delete.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Customers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Customers/Details.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Customers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Customers/Edit.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Customers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Customers/Index.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Customers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Flights/Create.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Flights/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Flights/Delete.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Flights/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Flights/Details.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Flights/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Flights/Edit.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Flights/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Flights/Index.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Flights/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Home/Index.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Home/Privacy.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Invoices/Create.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Invoices/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Invoices/Delete.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Invoices/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Invoices/Details.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Invoices/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Invoices/Edit.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Invoices/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Invoices/Index.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Invoices/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Payments/Create.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Payments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Payments/Delete.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Payments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Payments/Details.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Payments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Payments/Edit.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Payments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Payments/Index.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Payments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Reservationss/Create.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Reservationss/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Reservationss/Delete.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Reservationss/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Reservationss/Details.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Reservationss/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Reservationss/Edit.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Reservationss/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Reservationss/Index.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Reservationss/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25zc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Shared/Error.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/_ViewImports.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/_ViewStart.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/perko/Desktop/Faks/RIS/Projekt/AirlinesSolutions/web/Views/Shared/_Layout.cshtml]
+[C:/Users/Blaž/Desktop/Faks/RIS/Projekt/airlinesSolutions/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8whe8wgrvj
