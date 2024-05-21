@@ -131,17 +131,13 @@
     </div>
 
     <script>
-        // Pošljite obrazec in prikažite modalno okno ob uspešnem oddajanju
         document.getElementById("reservationForm").addEventListener("submit", function(event) {
             event.preventDefault();
-            // Simulirajte pošiljanje podatkov
             setTimeout(function() {
-                // Prikažite modalno okno
                 document.getElementById('successModal').style.display = 'block';
-            }, 100); // Predpostavljeno, da traja oddajanje 1 sekundo (lahko prilagodite)
+            }, 100);
         });
 
-        // Zaprite modalno okno, če uporabnik klikne na X
         document.getElementsByClassName("close")[0].addEventListener("click", function() {
             document.getElementById('successModal').style.display = 'none';
         });
