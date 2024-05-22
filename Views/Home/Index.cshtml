@@ -13,7 +13,7 @@
         body { font-family: Arial, sans-serif; }
         .container { max-width: 600px; margin: 50px auto; padding: 20px; }
         h1 { text-align: center; color: #333; }
-        form { background-color: #f7f7f7; padding: 20px; border-radius: 8px; }
+        form { background-color: #f7f7f7; padding: 20px; border-radius: 8px;     margin-bottom: 150px; }
         input, select { width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 4px; }
         button { width: 100%; padding: 10px; background-color: #5cb85c; color: white; border: none; border-radius: 4px; cursor: pointer; }
         button:hover { background-color: #4cae4c; }
@@ -48,6 +48,7 @@
             text-decoration: none;
             cursor: pointer;
         }
+        
     </style>
 </head>
 <body>
@@ -67,7 +68,7 @@
     <section>
         <div class="container" style="opacity: 0.9;">
             <h1 style="color: rgb(255, 255, 255);">Rezerviraj let</h1>
-            <form id="reservationForm">
+            <form id="reservationForm" action="/Payments/Index" method="post"> 
                 <label for="from">Od kje letite?</label>
                 <select id="from" name="from" required>
                     <option value="">Izberite odhodno letališče...</option>
@@ -79,13 +80,13 @@
                 </select>
 
                 <label for="to">Kam letite?</label>
-                <select id="from" name="from" required>
+                <select id="to" name="to" required> 
                     <option value="">Izberite odhodno letališče...</option>
-                    <option value="LJU">Ljubljana Jože Pučnik Airport</option>
-                    <option value="LHR">Heathrow Airport</option>
-                    <option value="CDG">Charles de Gaulle Airport</option>
-                    <option value="JFK">John F. Kennedy International Airport</option>
-                    <option value="DXB">Dubai International Airport</option>
+                    <option value="VIE">Vienna International Airport</option>
+                    <option value="FCO">Leonardo da Vinci-Fiumicino Airport</option>
+                    <option value="AMS">Amsterdam Schiphol Airport</option>
+                    <option value="ORD">O'Hare International Airport</option>
+                    <option value="HND">Tokyo Haneda Airport</option>
                 </select>
 
                 <label for="class">Razred leta:</label>
@@ -116,32 +117,73 @@
                     <option value="10">10</option>
                 </select>
 
-                <button type="submit" id="submitBtn" >Rezerviraj let</button>
+                <button type="submit" id="submitBtn">Rezerviraj let</button>
             </form>
         </div>
     </section>
 
-    <!-- Modalno okno za prikaz uspešne rezervacije -->
-    <div id="successModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <h2>Uspešno rezervirano</h2>
-            <p>Vaša rezervacija je bila uspešno oddana.</p>
-        </div>
+
+<div id="paymentModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>Vnesite podatke o kreditni kartici</h2>
+        <form id="paymentForm">
+            <label for="cardNumber">Številka kartice:</label>
+            <input type="text" id="cardNumber" name="cardNumber" required pattern="[0-9]{16}" title="Vnesite 16-mestno številko kartice">
+            
+            <label for="expiryDate">Datum izteka:</label>
+            <input type="text" id="expiryDate" name="expiryDate" required placeholder="MM/YY" pattern="(0[1-9]|1[0-2])\/([0-9]{2})" title="Vnesite datum v obliki MM/YY">
+            
+            <label for="cvv">CVV:</label>
+            <input type="text" id="cvv" name="cvv" required pattern="[0-9]{3}" title="Vnesite 3-mestno število CVV">
+
+            <label for="pin">PIN:</label>
+            <input type="text" id="pin" name="pin" required pattern="[0-9]{4}" title="Vnesite 4-mestno število PIN">
+
+            <label for="price">Cena:</label>
+            <input type="text" id="price" name="price" readonly>
+
+            <button type="submit">Plačaj</button>
+        </form>
     </div>
+</div>
 
-    <script>
-        document.getElementById("reservationForm").addEventListener("submit", function(event) {
-            event.preventDefault();
-            setTimeout(function() {
-                document.getElementById('successModal').style.display = 'block';
-            }, 100);
-        });
 
-        document.getElementsByClassName("close")[0].addEventListener("click", function() {
-            document.getElementById('successModal').style.display = 'none';
-        });
-    </script>
+<div id="successModal" class="modal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2 style="text-align: center;">Uspešna tranzakcija</h2>
+        <h3 style="text-align: center;">Podatki bodo poslani na vas e-poštni naslov</h3>
+        <p id="successMessage"></p>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+    var priceInput = document.getElementById("price");
+    var randomPrice = Math.floor(Math.random() * (1500 - 500 + 1)) + 500;
+    priceInput.value = randomPrice + "$";
+});
+
+    document.getElementById("reservationForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+        document.getElementById('paymentModal').style.display = 'block';
+    });
+
+    document.getElementById("paymentForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+
+        setTimeout(function() {
+            document.getElementById('successModal').style.display = 'block';
+        }, 3000);
+    });
+
+    document.getElementsByClassName("close")[0].addEventListener("click", function() {
+        document.getElementById('paymentModal').style.display = 'none';
+        document.getElementById('successModal').style.display = 'none';
+    });
+</script>
+
+
 </body>
 </html>
-
