@@ -1,1 +1,1 @@
-Spletna aplikacija je dostopna na https://airlines-solutions.azurewebsites.net/
+Aplikacija je dostopna na https://airlines-solutions.azurewebsites.net/
